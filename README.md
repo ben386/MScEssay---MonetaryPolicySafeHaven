@@ -1,6 +1,6 @@
 # MScEssay---MonetaryPolicySafeHaven
 
-"How Large is the Effect of Monetary Policy on Safe Haven Asset Prices?" by Benjamin O'Sullivan
+"How Large is the Effect of Monetary Policy on Safe Haven Asset Prices?" by Benjamin O'Sullivan.
 
 +------------------------------------------+
 
