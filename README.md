@@ -13,3 +13,12 @@ more sensitive to monetary tightening over time.
 
 +-------------------------------------------+
 
+***IMPORTANT:*** I have used the replication code for "The Time-Varying Effect of Monetary Policy on Asset Prices" from [Pascal Paul](http://www.pascalpaul.de/replication-codes-varx/). I have made the necessary adjustments to carry out the estimation procedure I have laid out in my paper. 
+
+**Citation:** *Paul, Pascal. 2020. “The Time-Varying Effect of Monetary Policy on Asset Prices”,
+Review of Economics and Statistics, Vol. 102(4), pp. 690-704.*
+
+**Instructions:**
+1. Download the replication code
+2. Under the "Time-Varying Parameter VAR" folder replace the *Run_TVP_VAR.m* and *figure_settings.m* scripts with the ones in this repo
+3. Under t
