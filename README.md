@@ -21,4 +21,4 @@ Review of Economics and Statistics, Vol. 102(4), pp. 690-704.*
 **Instructions:**
 1. Download the replication code
 2. Under the "Time-Varying Parameter VAR" folder replace the *Run_TVP_VAR.m* and *figure_settings.m* scripts with the ones in this repo
-3. Under t
+3. Under the path "Data/Macro Time Series" add the *macrodata.xls* to the "Macro Time Series" folder
