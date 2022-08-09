@@ -23,5 +23,5 @@ Review of Economics and Statistics, Vol. 102(4), pp. 690-704.*
 2. Under the "Time-Varying Parameter VAR" folder replace the *Run_TVP_VAR.m* and *figure_settings.m* scripts with the ones in this repo
 ![Screenshot 2022-08-09 at 22 06 14](https://user-images.githubusercontent.com/53973798/183761956-17a980ef-e3f1-4a17-9315-1e5d8cff17f1.png)
 3. Under the path "Data/Macro Time Series" add the *macrodata.xlsx* to the "Macro Time Series" folder
-4. *Run_TVP_VAR.m* is the main script which estimates the TVPVARX model and produces the 3D and 2D plots
 ![Screenshot 2022-08-09 at 22 09 55](https://user-images.githubusercontent.com/53973798/183762121-8af1f4ed-330c-486f-a95c-aa536b9bf7c1.png)
+4. *Run_TVP_VAR.m* is the main script which estimates the TVPVARX model and produces the 3D and 2D plots
